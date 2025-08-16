@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project implements a **Logistic Regression model** to detect toxic language in text.  
 It serves as the **prototype stage** of a larger multilingual toxicity detection system, demonstrating the feasibility of machine learning for identifying offensive or harmful content.  
-
+CSV File: https://www.kaggle.com/competitions/jigsaw-multilingual-toxic-comment-classification
 ---
 
 ## ⚙️ Tech Stack
